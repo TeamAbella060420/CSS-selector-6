@@ -3,4 +3,11 @@
 }
 :target {
     background: #384047;
+    color: white;
+    border-radius: 10px;
+}
+#col-c:target {
+    background: #eff1f2;
+    color: initial;
+    box-shadow: 0 0 6px rgba(10, 10, 10, 0.2);
 }
